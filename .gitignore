@@ -6,6 +6,7 @@ tmp*
 *.dylib
 *.rlib
 *.bin
+*.exe
 *.so
 test
 protobuf-bin-gen-rust
